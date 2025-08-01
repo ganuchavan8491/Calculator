@@ -14,7 +14,7 @@ This is a simple terminal-based **calculator app built in Python**. Perform basi
 
 2. Run the Python file:
    ```bash
-   python calculator.py
+   python main.py
    ```
 
 > Make sure Python 3 is installed.
